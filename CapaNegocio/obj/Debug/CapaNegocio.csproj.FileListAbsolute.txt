@@ -1,0 +1,11 @@
+C:\Users\rubi\Desktop\Academico\4to_Cuatrimestre\Materias\Programacion2\Proyecto_Final\VISITAS_ITLA\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\rubi\Desktop\Academico\4to_Cuatrimestre\Materias\Programacion2\Proyecto_Final\VISITAS_ITLA\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\rubi\Desktop\Academico\4to_Cuatrimestre\Materias\Programacion2\Proyecto_Final\VISITAS_ITLA\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\rubi\Desktop\Academico\4to_Cuatrimestre\Materias\Programacion2\Proyecto_Final\VISITAS_ITLA\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\rubi\Desktop\Academico\4to_Cuatrimestre\Materias\Programacion2\Proyecto_Final\VISITAS_ITLA\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\rubi\Desktop\Academico\4to_Cuatrimestre\Materias\Programacion2\Proyecto_Final\VISITAS_ITLA\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\rubi\Desktop\Academico\4to_Cuatrimestre\Materias\Programacion2\Proyecto_Final\VISITAS_ITLA\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\rubi\Desktop\Academico\4to_Cuatrimestre\Materias\Programacion2\Proyecto_Final\VISITAS_ITLA\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\rubi\Desktop\Academico\4to_Cuatrimestre\Materias\Programacion2\Proyecto_Final\VISITAS_ITLA\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\rubi\Desktop\Academico\4to_Cuatrimestre\Materias\Programacion2\Proyecto_Final\VISITAS_ITLA\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\rubi\Desktop\Academico\4to_Cuatrimestre\Materias\Programacion2\Proyecto_Final\VISITAS_ITLA\CapaNegocio\obj\Debug\CapaNegocio.pdb
